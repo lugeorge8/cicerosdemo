@@ -13,7 +13,7 @@ body {
 
 body {
   margin: 0;
-  background: var(--bg);
+  background: #ff0000;
   color: var(--fg);
   font-family:
     ui-sans-serif,
