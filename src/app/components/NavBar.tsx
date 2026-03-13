@@ -6,6 +6,7 @@ const items = [
   { href: '/jobs', label: 'Jobs' },
   { href: '/press', label: 'Press' },
   { href: '/maps', label: 'Maps' },
+  { href: '/history', label: 'History' },
 ];
 
 export function NavBar() {
