@@ -1,10 +1,5 @@
+import { redirect } from 'next/navigation';
+
 export default function Page() {
-  return (
-    <main className="wrap">
-      <section className="card">
-        <h1>Four</h1>
-        <p>Placeholder page.</p>
-      </section>
-    </main>
-  );
+  redirect('/maps');
 }

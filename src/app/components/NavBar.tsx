@@ -2,10 +2,10 @@ import Link from 'next/link';
 
 const items = [
   { href: '/', label: 'Home' },
-  { href: '/one', label: 'One' },
-  { href: '/two', label: 'Two' },
-  { href: '/three', label: 'Three' },
-  { href: '/four', label: 'Four' },
+  { href: '/menu', label: 'Menu' },
+  { href: '/jobs', label: 'Jobs' },
+  { href: '/press', label: 'Press' },
+  { href: '/maps', label: 'Maps' },
 ];
 
 export function NavBar() {
